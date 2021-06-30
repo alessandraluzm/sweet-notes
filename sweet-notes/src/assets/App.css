@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+  }
+  
+:root {
+--primary: #58a4b0;
+--secondary: #373f51;
+--secundary-active: #cccccc;
+--bg: #ffffff;
+--bg-details: #ececec;
+}
