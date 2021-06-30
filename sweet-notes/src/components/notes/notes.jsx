@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import CardNote from '../card-note/card-note'
+import CardNote from '../card-note'
 import "./style.css"
 
 class Notes extends Component{
